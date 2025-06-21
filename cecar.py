@@ -63,3 +63,5 @@ label_result.grid(row=4, column=0, columnspan=2)
 
 window.mainloop()
 
+ne'e hau brigida de carvalho carmo
+
